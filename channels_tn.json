@@ -1,0 +1,14 @@
+{
+    "channels": [
+        {
+                "url_vps": "http://209.58.160.62:8222/;stream/1",
+                "url_jadwal": "https://raw.githubusercontent.com/moh-yani/streaming-tn/master/jadwal_radio_quran.json",
+                "desc" : "Radio Qur\'an"
+        },
+        {
+                "url_vps": "http://103.27.207.129:8226/TN01",
+                "url_jadwal": "https://raw.githubusercontent.com/moh-yani/streaming-tn/master/jadwal_tn1.json",
+                "desc" : "Channel Satu"
+        }
+    ]
+}
